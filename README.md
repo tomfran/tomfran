@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm Francesco</h1>
 
 ### About Me
-I’m a computer science  master student at the University of Milan <br>
+I’m a computer science  master student at the University of Milan. <br>
 I worked on many projects and I've seen machine learning, distributed systems and cloud applications, I also worked once on a webapp.
 
 ### Languages and works
