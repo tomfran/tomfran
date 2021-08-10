@@ -12,6 +12,5 @@ My main languages are
 I'm currently working on: *Urban sound classification with a neural network*.
 
 ### Get in touch
-<a href="https://www.linkedin.com/in/francescotomaselli-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+Send me an email at tomaselli.fr@gmail.com<br>
+Or find me on [Linkedin](https://www.linkedin.com/in/francescotomaselli-/)
