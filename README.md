@@ -9,8 +9,6 @@ My main languages are
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-I'm currently working on: *Urban sound classification with a neural network*.
-
 ### Get in touch
 Send me an email at tomaselli.fr@gmail.com<br>
 Or find me on [Linkedin](https://www.linkedin.com/in/francescotomaselli-/)
