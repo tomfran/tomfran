@@ -11,4 +11,6 @@ My main languages are
 
 ### Get in touch
 Send me an email at tomaselli.fr@gmail.com<br>
-Or find me on [Linkedin](https://www.linkedin.com/in/francescotomaselli-/)
+Or find me on linkedin
+
+<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="francescotomaselli-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/francescotomaselli-?trk=profile-badge">Francesco Tomaselli</a></div>
