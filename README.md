@@ -1,7 +1,10 @@
 # Hi, I'm Francesco
 
-I have a Master's degree in Computer Science at the University of Milan and a Bachleor at University of Trento.
+### About me
+I recently started working as a Software Engineer at Satispay. I have a Master's Degree in Computer Science at the University of Milan.
+Throughout my studies, I developed a keen interest in a range of topics, including distributed systems, compression techniques, and machine learning.
 
+### Projects 
 Some of my most relevant projects are:
 - [Graph compression via ANS](https://github.com/tomfran/ANS-Graph-compression): this is my Master's thesis work on graph compression via asymmetric numeral systems;
 - [Caselaw temporal analysis](https://github.com/tomfran/caselaw-temporal-analysis): temporal analysis of legal texts via topic modelling and temporal word embeddings;
