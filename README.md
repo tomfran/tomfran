@@ -12,3 +12,18 @@ Some of my most relevant projects are:
 - [Drones distributed system](https://github.com/tomfran/dronazon): distributed systems course project, main topics are concurrency, REST APIs, gRCP, pub/sub;
 - [Speech emotion recognition](https://github.com/tomfran/ravdess-ser): multi-class classification on the RAVDESS dataset;
 - [Urban sound classification](https://github.com/tomfran/urban-sound-classification): multi-class classification on UrbanSound8K dataset.
+
+### Contacts
+<a href="https://www.linkedin.com/in/tomaselli-/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="mailto:tomaselli.fr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/tomfran/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>&nbsp;&nbsp;
+
+
