@@ -15,4 +15,4 @@ Here are some of my projects:
 
 ### Get in touch
 
-You can find me on [Linkedin](https://www.linkedin.com/in/tomaselli-/), here is my [website](https://tomfran.github.io).
+You can find me on [Linkedin](https://www.linkedin.com/in/tomaselli-/), [Medium](https://medium.com/@tomfran), and here is my [website](https://tomfran.github.io).
