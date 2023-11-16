@@ -1,18 +1,18 @@
 # Hi, I'm Francesco
 
-### About me
-I am currently working as a Software Engineer at Satispay. I have a Master's Degree in Computer Science from the University of Milan, during which I developed a keen interest in a range of topics, including distributed systems, compression techniques, and machine learning.
+<a href="https://www.linkedin.com/in/tomaselli-/">
+  <img align="left" alt="Francesco Tomaselli's Linkedin" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+</a>
+<a href="https://tomfran.github.io/">
+  <img align="left" alt="Francesco Tomaselli's Website" width="22px" src="https://tomfran.github.io/favicon.ico" />
+</a>
+<a href="[https://tomfran.github.io/](https://medium.com/@tomfran)">
+  <img align="left" alt="Francesco Tomaselli's Medium" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" />
+</a>
+<br/>
+<br/>
 
-### Projects 
-Here are some of my projects:
-- [LSM Tree](https://github.com/tomfran/LSM-Tree): a Log-structured merge-tree implementaion in Java;
-- [Graph compression via ANS](https://github.com/tomfran/ANS-Graph-compression): graph compression via asymmetric numeral systems;
-- [Last.fm users analysis](https://github.com/tomfran/lastfm-users-analysis): data collection from Last.fm api and analysis with Spark;
-- [Caselaw temporal analysis](https://github.com/tomfran/caselaw-temporal-analysis): temporal analysis of texts via topic modelling and temporal word embeddings;
-- [Drones distributed system](https://github.com/tomfran/dronazon): simulated drones system, main topics are election, concurrency, gRCP, pub/sub;
-- [Urban sound classification](https://github.com/tomfran/urban-sound-classification): multi-class classification on UrbanSound8K dataset using neural networks.
+**Experience**
 
-
-### Get in touch
-
-You can find me on [Linkedin](https://www.linkedin.com/in/tomaselli-/), [Medium](https://medium.com/@tomfran), and here is my [website](https://tomfran.github.io).
+* <img align="left" alt="Satispay's logo" width="22px" src="https://www.satispay.com/favicon-32x32.png" /> Software Engineer @ [Satispay](https://www.taktile.com/) - Jan 2023 - Now
+* <img align="left" alt="Spaziodati's logo" width="22px" src="https://static.wixstatic.com/media/91e7f0_5853ad331dfc4b6a89a24d7332c39bce%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/91e7f0_5853ad331dfc4b6a89a24d7332c39bce%7Emv2.png" /> Software Engineer Intern @ [Spaziodati](https://datadoghq.com) - Feb 2020 - Jun 2020
