@@ -14,5 +14,6 @@
 
 **Experience**
 
-* <img align="left" alt="Satispay's logo" width="24px" src="https://www.satispay.com/favicon-32x32.png" /> Software Engineer @ [Satispay](https://www.taktile.com/) - Jan 2023 - Now
-* <img align="left" alt="Spaziodati's logo" width="24px" src="https://static.wixstatic.com/media/91e7f0_5853ad331dfc4b6a89a24d7332c39bce%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/91e7f0_5853ad331dfc4b6a89a24d7332c39bce%7Emv2.png" /> Software Engineer Intern @ [Spaziodati](https://datadoghq.com) - Feb 2020 - Jun 2020
+<img align="left" alt="Satispay's logo" width="24px" src="https://www.satispay.com/favicon-32x32.png" /> SWE @ [Satispay](https://www.satispay.com/) | Jan 2023 - Now
+
+<img align="left" alt="Spaziodati's logo" width="24px" src="https://static.wixstatic.com/media/91e7f0_5853ad331dfc4b6a89a24d7332c39bce%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/91e7f0_5853ad331dfc4b6a89a24d7332c39bce%7Emv2.png" /> SWE Intern @ [Spaziodati](https://www.spaziodati.eu) | Feb 2020 - Jun 2020
