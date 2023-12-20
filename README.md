@@ -14,5 +14,5 @@
 
 **Experience**
 
-* Software Engineer @ [Satispay](https://www.satispay.com/) | Jan 2023 - Now
-* Software Engineer Intern @ [Spaziodati](https://www.spaziodati.eu) | Feb 2020 - Jun 2020
+* SWE @ [Satispay](https://www.satispay.com/) | Jan 2023 - Now
+* Intern @ [Spaziodati](https://www.spaziodati.eu) | Feb 2020 - Jun 2020
