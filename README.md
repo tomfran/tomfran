@@ -16,3 +16,8 @@
 
 * SWE @ [Satispay](https://www.satispay.com/) | Jan 2023 - Now
 * Intern @ [Spaziodati](https://www.spaziodati.eu) | Feb 2020 - Jun 2020
+
+**Blog posts**
+
+- [Log-Structured Merge Tree](https://itnext.io/log-structured-merge-tree-a79241c959e3)
+- [Building a Search Engine in Rust](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8)
