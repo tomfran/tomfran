@@ -19,5 +19,5 @@
 
 **Latest works**
 
-* Log-Structured Merge Tree in Java: [code](https://itnext.io/log-structured-merge-tree-a79241c959e3), [blog post](https://medium.com/tomfran/log-structured-merge-tree-a79241c959e3)
-* Search Engine in Rust: [code](https://github.com/tomfran/search-rs/tree/main), [blog post](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8)
+* Log-Structured Merge Tree in Java: [code](https://github.com/tomfran/LSM-Tree), [blog post](https://medium.com/tomfran/log-structured-merge-tree-a79241c959e3)
+* Search Engine in Rust: [code](https://github.com/tomfran/search-rs), [blog post](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8)
