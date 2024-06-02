@@ -12,12 +12,11 @@
 <br/>
 <br/>
 
-**Experience**
+I am currently working at [Satispay](https://www.satispay.com/it-it/) as a software engineer, while during my studies I was at [Spaziodati](https://www.spaziodati.eu/) for some months.
+I studied Computer Science from 2017 to 2022 in Italy at the University of Trento and Milan.
 
-* SWE @ [Satispay](https://www.satispay.com/) | Jan 2023 - Now
-* Intern @ [Spaziodati](https://www.spaziodati.eu) | Feb 2020 - Jun 2020
+### Latest works
 
-**Latest works**
-
-* Log-Structured Merge Tree in Java: [code](https://github.com/tomfran/LSM-Tree), [blog post](https://medium.com/tomfran/log-structured-merge-tree-a79241c959e3)
-* Search Engine in Rust: [code](https://github.com/tomfran/search-rs), [blog post](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8)
+- LSM Tree in Java: [code](https://github.com/tomfran/LSM-Tree), [blog post](https://medium.com/tomfran/log-structured-merge-tree-a79241c959e3)
+- Search Engine in Rust: [code](https://github.com/tomfran/search-rs), [blog post](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8)
+- Hugo Typo Theme: [code](https://github.com/tomfran/typo)
