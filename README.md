@@ -10,9 +10,10 @@
   <img align="left" alt="Francesco Tomaselli's Medium" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" />
 </a>
 <br/>
+<br/>
 
-### Latest works
+**Latest works**
 
 - LSM Tree in Java: [code](https://github.com/tomfran/LSM-Tree), [blog post](https://medium.com/tomfran/log-structured-merge-tree-a79241c959e3)
 - Search Engine in Rust: [code](https://github.com/tomfran/search-rs), [blog post](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8)
-- Hugo Typo Theme: [code](https://github.com/tomfran/typo)
+- Hugo Typo Theme: [code](https://github.com/tomfran/typo), [demo](https://tomfran.github.io/)
